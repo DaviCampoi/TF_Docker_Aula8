@@ -1,0 +1,15 @@
+{
+  "name": "TF_DOCKER_AULA8",
+  "version": "1.0.0",
+  "description": "Este repositório contém a configuração Docker para um sistema web que utiliza Node.js, PostgreSQL e MongoDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
